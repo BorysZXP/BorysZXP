@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I'm Borys Z.
-I'm really interested in Machine Learning.
-Might be kinda self defeating since it could replace me but...
+I'm really interested in Machine Learning.  
+Might be kinda self defeating since it could replace me but...  
 It is what it is.
 <!--
 **BorysZXP/BorysZXP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
